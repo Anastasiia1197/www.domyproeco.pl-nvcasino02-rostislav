@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://omoda-simsaratov.ru/</loc>
-    <lastmod>2025-12-16</lastmod>
+    <loc>https://www.domyproeco.pl/</loc>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.domyproeco.pl/pl-pl</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
   </url>
 
 </urlset>

