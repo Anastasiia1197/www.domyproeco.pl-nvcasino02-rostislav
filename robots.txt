@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://omoda-simsaratov.ru/sitemap.xml
+Sitemap: https://www.domyproeco.pl/sitemap.xml
